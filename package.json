@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "live-server": "^1.2.1"
-  }
+  },
+  "name": "soda-bootcamp",
+  "description": "website stuff",
+  "version": "1.0.0",
+  "main": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirdonez/SoDa-Bootcamp.git"
+  },
+  "author": "Nicolas Ordonez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirdonez/SoDa-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/sirdonez/SoDa-Bootcamp#readme"
 }
